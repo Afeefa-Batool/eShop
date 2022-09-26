@@ -1,0 +1,38 @@
+.cate-image{
+    width: 100px;
+}
+.cate-image2{
+    width: 100px;
+    height: 70px;
+}
+.form-select{
+    display: block;
+    width: 100%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #031323;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ceddce;
+    border-radius: .32rem;
+    -webkit-appearance :none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.order-details label{
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.order-details div{
+    font-size: 14px;
+    padding: 4px;
+   
+}
+
+
