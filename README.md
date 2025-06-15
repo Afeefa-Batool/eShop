@@ -1,54 +1,59 @@
-# 💍 JewelConnect - Empowering Local Jewellers
+# 💎 Jewellery Palace
 
-![banner](https://your-banner-link-if-any.png)
+> **Empowering Local Jewellers to Go Global**
 
-> A vibrant e-commerce platform built to uplift **local jewellery businesses** by providing them with modern tools to **showcase, sell, and scale** their stunning creations online.
-
----
-
-## ✨ Features
-
-- 🛒 **Custom Online Stores** for individual jewellers
-- 📦 **Product Catalog Management** with images, pricing, and descriptions
-- 💳 **Secure Checkout** with multiple payment options
-- 📱 **Mobile-First UI** for customers and vendors
-- 🔍 **Advanced Search & Filtering** by price, metal, stone, and design
-- 📈 **Dashboard for Sales Analytics**
-- 📬 **Order Tracking and Notifications**
+![UI Preview 1](./ui2.png)
+![UI Preview 2](./ui3.PNG)
+![UI Preview 3](./ui4.png)
+![UI Preview 4](./ui5.png)
 
 ---
 
-## 🚀 Tech Stack
+## 🛍️ What is Jewellery Palace?
 
-| Frontend        | Backend        | Database       | Other             |
-|----------------|----------------|----------------|-------------------|
-| React.js (TS)   | Node.js / Express | PostgreSQL     | Stripe API, JWT Auth |
-| Tailwind CSS   | REST APIs       | Prisma ORM     | Cloudinary (for image upload) |
+**Jewellery Palace** is a custom-built e-commerce platform designed to help **local jewellery businesses** showcase their products, manage inventory, and sell online with ease. Built with simplicity and scalability in mind, it provides full control to vendors and a smooth shopping experience to customers.
 
 ---
 
-## 📸 UI Previews
+## ✨ Key Features
 
-| Browse Products | Product Details |
-|-----------------|-----------------|
-| ![ui2](./ui2.png) | ![ui3](./ui3.PNG) |
+### 🧑‍💼 Customer Side (Frontend)
 
-| Seller Dashboard | Cart Summary |
-|------------------|--------------|
-| ![ui4](./ui4.png) | ![ui5](./ui5.png) |
+- 🔍 Browse jewellery by category, metal, price range
+- 🛒 Add to cart and wishlist functionality
+- 📋 Product detail pages with high-resolution images
+- 🧾 Seamless checkout flow
+- 🔐 User registration and login
+- 📦 Order history and tracking
+
+### 📊 Admin / Seller Dashboard
+
+- 🧮 **Product Management (CRUD)**  
+  Create, Read, Update, Delete jewellery items easily
+- 📂 Category & Subcategory management
+- 📬 Manage orders and customer information
+- 📊 View sales analytics and order status
+- 🖼️ Upload images and set promotional banners
+- 🔐 Admin login/logout and session protection
 
 ---
 
-## 💡 Why JewelConnect?
+## 🔧 Tech Stack
 
-> “Most local jewellers struggle to digitize their business. JewelConnect bridges the gap by offering them a simple, customizable, and scalable solution to go online and thrive.”
+| Layer       | Technology Used                      |
+|-------------|--------------------------------------|
+| Frontend    | HTML, CSS, JavaScript, Bootstrap     |
+| Backend     | PHP (Laravel Framework)              |
+| Database    | MySQL                                |
+| Auth        | Laravel Auth, Middleware             |
+| UI Styling  | Bootstrap 5                          |
 
 ---
 
-## 🔧 Setup & Installation
+## 🛠️ How to Run Locally
 
-1. **Clone the Repository**
+### 🔽 Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/jewelconnect.git
-cd jewelconnect
+git clone https://github.com/yourusername/jewellery-palace.git
+cd jewellery-palace
